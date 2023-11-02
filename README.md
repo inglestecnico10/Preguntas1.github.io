@@ -71,38 +71,38 @@
     </style>
 </head>
 <body>
-    <h1>Ensamble y Desensamble de Computadoras</h1>
+    <h1>PC Assembly and Disassembly</h1>
 
     <div class="container">
         <div class="question">
-            <p>Pregunta 1: ¿Cuál es el propósito principal de una pulsera antiestática al ensamblar una computadora?</p>
+            <p>Question 1: What is the main purpose of an anti-static wrist strap when assembling a computer?</p>
             <div class="options">
-                <label><input type="radio" name="q1" value="a"> a. Mantiene las manos limpias.</label>
-                <label><input type="radio" name="q1" value="b"> b. Evita descargas electrostáticas que pueden dañar los componentes.</label>
-                <label><input type="radio" name="q1" value="c"> c. Protege contra virus informáticos.</label>
+                <label><input type="radio" name="q1" value="a"> a. Keeps hands clean.</label>
+                <label><input type="radio" name="q1" value="b"> b. Prevents electrostatic discharges that can damage components.</label>
+                <label><input type="radio" name="q1" value="c"> c. Protects against computer viruses.</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 2: ¿Qué herramienta se utiliza comúnmente para atornillar componentes en una computadora?</p>
+            <p>Question 2: What tool is commonly used to screw components in a computer?</p>
             <div class="options">
-                <label><input type="radio" name="q2" value="a"> a. Destornillador</label>
-                <label><input type="radio" name="q2" value="b"> b. Martillo</label>
-                <label><input type="radio" name="q2" value="c"> c. Llave</label>
+                <label><input type="radio" name="q2" value="a"> a. Screwdriver</label>
+                <label><input type="radio" name="q2" value="b"> b. Hammer</label>
+                <label><input type="radio" name="q2" value="c"> c. Wrench</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 3: ¿Qué precaución debes tomar antes de tocar cualquier componente interno de una computadora?</p>
+            <p>Question 3: What precaution should you take before touching any internal computer component?</p>
             <div class="options">
-                <label><input type="radio" name="q3" value="a"> a. Usar guantes de goma.</label>
-                <label><input type="radio" name="q3" value="b"> b. Asegurarte de que la computadora esté conectada.</label>
-                <label><input type="radio" name="q3" value="c"> c. Apagar y desconectar la computadora de la fuente de alimentación y tocar una superficie metálica para descargar la electricidad estática de tu cuerpo.</label>
+                <label><input type="radio" name="q3" value="a"> a. Wear rubber gloves.</label>
+                <label><input type="radio" name="q3" value="b"> b. Ensure the computer is plugged in.</label>
+                <label><input type="radio" name="q3" value="c"> c. Turn off and disconnect the computer from the power source and touch a metal surface to discharge static electricity from your body.</label>
             </div>
         </div>
 
-        <div class "question">
-            <p>Pregunta 4: ¿Qué tipo de ranura de expansión se utiliza para agregar tarjetas de sonido, tarjetas de red y tarjetas gráficas a una computadora?</p>
+        <div class="question">
+            <p>Question 4: What type of expansion slot is used to add sound cards, network cards, and graphics cards to a computer?</p>
             <div class="options">
                 <label><input type="radio" name="q4" value="a"> a. PCI Express</label>
                 <label><input type="radio" name="q4" value="b"> b. SATA</label>
@@ -111,118 +111,118 @@
         </div>
 
         <div class="question">
-            <p>Pregunta 5: ¿Qué tipo de computadora suele ser más fácil de actualizar en términos de componentes como la RAM o el almacenamiento?</p>
+            <p>Question 5: Which type of computer is typically easier to upgrade in terms of components like RAM or storage?</p>
             <div class="options">
-                <label><input type="radio" name="q5" value="a"> a. Computadora de escritorio</label>
+                <label><input type="radio" name="q5" value="a"> a. Desktop PC</label>
                 <label><input type="radio" name="q5" value="b"> b. Laptop</label>
-                <label><input type="radio" name="q5" value="c"> c. Ninguna de las anteriores se puede actualizar.</label>
+                <label><input type="radio" name="q5" value="c"> c. Neither can be upgraded.</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 6: ¿Qué describe mejor la facilidad de actualizar laptops en comparación con computadoras de escritorio?</p>
+            <p>Question 6: What best describes the ease of upgrading laptops compared to desktop PCs?</p>
             <div class="options">
-                <label><input type="radio" name="q6" value="a"> a. Las laptops suelen ser más fáciles de actualizar en términos de la tarjeta gráfica.</label>
-                <label><input type="radio" name="q6" value="b"> b. Las laptops son más difíciles de actualizar en comparación con las computadoras de escritorio.</label>
-                <label><input type="radio" name="q6" value="c"> c. Las laptops y las computadoras de escritorio tienen la misma facilidad de actualización.</label>
+                <label><input type="radio" name="q6" value="a"> a. Laptops are generally easier to upgrade in terms of components like the graphics card.</label>
+                <label><input type="radio" name="q6" value="b"> b. Laptops are more difficult to upgrade compared to desktop PCs.</label>
+                <label><input type="radio" name="q6" value="c"> c. Laptops and desktop PCs have the same ease of upgrading.</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 7: ¿Cuál es el propósito de la pasta térmica al ensamblar una CPU?</p>
+            <p>Question 7: What is the purpose of thermal paste when assembling a CPU?</p>
             <div class="options">
-                <label><input type="radio" name="q7" value="a"> a. Proporciona energía eléctrica a la CPU.</label>
-                <label><input type="radio" name="q7" value="b"> b. Facilita la comunicación entre la CPU y la placa base.</label>
-                <label><input type="radio" name="q7" value="c"> c. Ayuda a disipar el calor de la CPU y mantenerlo a una temperatura adecuada.</label>
+                <label><input type="radio" name="q7" value="a"> a. Provides electrical power to the CPU.</label>
+                <label><input type="radio" name="q7" value="b"> b. Facilitates communication between the CPU and motherboard.</label>
+                <label><input type="radio" name="q7" value="c"> c. Helps dissipate heat from the CPU and maintain it at an appropriate temperature.</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 8: ¿Por qué es importante usar tornillos para asegurar componentes al ensamblar una computadora?</p>
+            <p>Question 8: Why is it important to use screws to secure components when assembling a computer?</p>
             <div class="options">
-                <label><input type="radio" name="q8" value="a"> a. Los tornillos no son necesarios; los componentes pueden encajar sin ellos.</label>
-                <label><input type="radio" name="q8" value="b"> b. Los tornillos ayudan a mantener seguros los componentes y evitan que se muevan o se dañen.</label>
-                <label><input type="radio" name="q8" value="c"> c. Los tornillos complican el proceso de ensamblaje y se deben evitar.</label>
+                <label><input type="radio" name="q8" value="a"> a. Screws are not necessary; components can fit without them.</label>
+                <label><input type="radio" name="q8" value="b"> b. Screws help keep components secure and prevent them from moving or getting damaged.</label>
+                <label><input type="radio" name="q8" value="c"> c. Screws complicate the assembly process and should be avoided.</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 9: ¿Qué componente de hardware de una computadora suele instalarse en una bahía específica dentro de la carcasa?</p>
+            <p>Question 9: Which hardware component of a computer is typically installed in a specific bay inside the case?</p>
             <div class="options">
-                <label><input type="radio" name="q9" value="a"> a. Placa base</label>
-                <label><input type="radio" name="q9" value="b"> b. Fuente de alimentación</label>
-                <label><input type="radio" name="q9" value="c"> c. Disco duro</label>
+                <label><input type="radio" name="q9" value="a"> a. Motherboard</label>
+                <label><input type="radio" name="q9" value="b"> b. Power supply</label>
+                <label><input type="radio" name="q9" value="c"> c. Hard drive</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 10: ¿Cuál es la importancia de asegurarse de que los cables estén enrutados y organizados adecuadamente dentro de la carcasa al ensamblar una computadora?</p>
+            <p>Question 10: When assembling a computer, what is the importance of ensuring that cables are routed and organized properly inside the case?</p>
             <div class="options">
-                <label><input type="radio" name="q10" value="a"> a. No es necesario preocuparse por la organización de cables.</label>
-                <label><input type="radio" name="q10" value="b"> b. Ayuda a mantener un flujo de aire adecuado y evita que los cables obstruyan los componentes o se dañen por el calor.</label>
-                <label><input type="radio" name="q10" value="c"> c. Aumenta el rendimiento general de la computadora.</label>
+                <label><input type="radio" name="q10" value="a"> a. It's not necessary to worry about cable organization.</label>
+                <label><input type="radio" name="q10" value="b"> b. It helps maintain proper airflow and prevents cables from obstructing components or getting damaged by heat.</label>
+                <label><input type="radio" name="q10" value="c"> c. It increases the overall computer performance.</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 11: ¿Qué herramienta se utiliza comúnmente para asegurar y organizar cables dentro de una computadora?</p>
+            <p>Question 11: Which of the following tools is commonly used to secure and organize cables inside a computer?</p>
             <div class="options">
-                <label><input type="radio" name="q11" value="a"> a. Destornillador</label>
-                <label><input type="radio" name="q11" value="b"> b. Alicates</label>
-                <label><input type="radio" name="q11" value="c"> c. Bridas o sujetacables</label>
+                <label><input type="radio" name="q11" value="a"> a. Screwdriver</label>
+                <label><input type="radio" name="q11" value="b"> b. Pliers</label>
+                <label><input type="radio" name="q11" value="c"> c. Cable ties or zip ties</label>
             </div>
         </div>
 
         <div class="question">
-            <p>Pregunta 12: ¿Por qué es importante conectar los cables correctamente a la placa base y otros componentes al ensamblar una computadora?</p>
+            <p>Question 12: When assembling a computer, why is it important to connect cables correctly to the motherboard and other components?</p>
             <div class="options">
-                <label><input type="radio" name="q12" value="a"> a. No importa cómo se conecten los cables, ya que no afecta el funcionamiento.</label>
-                <label><input type="radio" name="q12" value="b"> b. Para evitar posibles cortocircuitos y asegurarse de que los componentes funcionen correctamente y se comuniquen entre sí.</label>
-                <label><input type="radio" name="q12" value="c"> c. Para aumentar el rendimiento de la computadora.</label>
+                <label><input type="radio" name="q12" value="a"> a. It doesn't matter how cables are connected as it doesn't affect the functioning.</label>
+                <label><input type="radio" name="q12" value="b"> b. To avoid potential short circuits and ensure that components function properly and communicate with each other.</label>
+                <label><input type="radio" name="q12" value="c"> c. To increase the computer's performance.</label>
             </div>
         </div>
 
         <div class="button-container">
-            <button onclick="calcularPuntaje()">Calcular Puntaje</button>
+            <button onclick="calculateScore()">Calculate Score</button>
         </div>
 
         <div class="result-container">
-            <p id="puntaje"></p>
-            <p id="respuestasIncorrectas" class="incorrect"></p>
+            <p id="score"></p>
+            <p id="incorrectAnswers" class="incorrect"></p>
         </div>
     </div>
 
     <script>
-        function calcularPuntaje() {
-            var puntaje = 0;
-            var respuestas = ["b", "a", "c", "b", "a", "b", "c", "b", "c", "b", "c", "b"];
-            var respuestasUsuario = [];
+        function calculateScore() {
+            var score = 0;
+            var answers = ["b", "a", "c", "b", "a", "b", "c", "b", "c", "b", "c", "b"];
+            var userAnswers = [];
 
             for (var i = 1; i <= 12; i++) {
-                var seleccion = document.querySelector('input[name="q' + i + '"]:checked');
-                if (seleccion) {
-                    respuestasUsuario.push(seleccion.value);
-                    if (seleccion.value === respuestas[i - 1]) {
-                        puntaje++;
+                var selection = document.querySelector('input[name="q' + i + '"]:checked');
+                if (selection) {
+                    userAnswers.push(selection.value);
+                    if (selection.value === answers[i - 1]) {
+                        score++;
                     }
                 } else {
-                    respuestasUsuario.push("");
+                    userAnswers.push("");
                 }
             }
 
-            var resultado = "Puntaje: " + puntaje + " respuestas correctas de 12";
-            document.getElementById("puntaje").innerHTML = resultado;
+            var result = "Score: " + score + " out of 12 correct answers";
+            document.getElementById("score").innerHTML = result;
 
-            // Mostrar respuestas incorrectas
-            var respuestasIncorrectas = [];
-            for (var i = 0; i < respuestas.length; i++) {
-                if (respuestasUsuario[i] !== respuestas[i]) {
-                    respuestasIncorrectas.push("Pregunta " + (i + 1) + ": Tu respuesta - " + respuestasUsuario[i] + ", Respuesta correcta - " + respuestas[i]);
+            // Display incorrect answers
+            var incorrectAnswers = [];
+            for (var i = 0; i < answers.length; i++) {
+                if (userAnswers[i] !== answers[i]) {
+                    incorrectAnswers.push("Question " + (i + 1) + ": Your answer - " + userAnswers[i] + ", Correct answer - " + answers[i]);
                 }
             }
 
-            var textoRespuestasIncorrectas = respuestasIncorrectas.length > 0 ? "Respuestas incorrectas: " + respuestasIncorrectas.join(", ") : "Todas las respuestas son correctas";
-            document.getElementById("respuestasIncorrectas").innerHTML = textoRespuestasIncorrectas;
+            var incorrectAnswersText = incorrectAnswers.length > 0 ? "Incorrect Answers: " + incorrectAnswers.join(", ") : "All answers are correct";
+            document.getElementById("incorrectAnswers").innerHTML = incorrectAnswersText;
         }
     </script>
 </body>
