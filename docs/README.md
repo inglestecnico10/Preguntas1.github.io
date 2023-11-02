@@ -120,7 +120,7 @@
             </div>
         </div>
 
-        <div class "question">
+        <div class="question">
             <p>Pregunta 6: ¿Qué describe mejor la facilidad de actualizar portátiles en comparación con PC de escritorio?</p>
             <div class="options">
                 <label><input type="radio" name="q6" value="a"> a. Los portátiles son generalmente más fáciles de actualizar en cuanto a componentes como la tarjeta gráfica.</label>
