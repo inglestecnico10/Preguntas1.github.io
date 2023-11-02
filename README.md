@@ -71,7 +71,7 @@
     </style>
 </head>
 <body>
-    <h1>Ensamblaje y Desmontaje de Computadoras</h1>
+    <h1>Ensamble y Desensamble de Computadoras</h1>
 
     <div class="container">
         <div class="question">
